@@ -15,10 +15,10 @@ require (
 	github.com/spf13/viper v1.11.0
 	golang.org/x/exp v0.0.0-20220414153411-bcd21879b8fd
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f
-	gorm.io/driver/mysql v1.3.3
+	gorm.io/driver/mysql v1.4.4
 	gorm.io/driver/postgres v1.3.4
 	gorm.io/driver/sqlite v1.3.1
-	gorm.io/gorm v1.23.4
+	gorm.io/gorm v1.23.8
 )
 
 require (
